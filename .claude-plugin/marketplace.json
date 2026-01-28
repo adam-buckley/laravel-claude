@@ -1,8 +1,16 @@
 {
   "name": "laravel-claude",
-  "description": "A marketplace containing Laravel/PHP plugin(s) for modern web development.",
-  "source": "https://github.com/adam-buckley/laravel-claude",
-  "owner": "Adam Buckley",
+  "metadata": {
+    "description": "A marketplace containing Laravel/PHP plugin(s) for modern web development."
+  },
+  "source": {
+    "source": "github",
+    "repo": "laravel-claude"
+  },
+  "owner": {
+    "name": "Adam Buckley"
+  },
+  "repository": "https://github.com/adam-buckley",
   "license": "MIT",
   "keywords": [
     "php",
@@ -17,7 +25,9 @@
       "name": "laravel-claude",
       "description": "A collection of agents, skills, and commands for Laravel/PHP development with Vue and Inertia.",
       "version": "0.1.0",
-      "author": "Adam Buckley",
+      "author": {
+        "name": "Adam Buckley"
+      },
       "category": "development",
       "keywords": [
         "php",
@@ -25,7 +35,6 @@
         "vue",
         "inertia"
       ],
-      "source": "./plugins/laravel-claude",
       "strict": false,
       "tags": [
         "php",
