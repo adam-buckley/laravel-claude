@@ -28,6 +28,7 @@
       "author": {
         "name": "Adam Buckley"
       },
+      "source": "./plugins/laravel-claude",
       "category": "development",
       "keywords": [
         "php",
