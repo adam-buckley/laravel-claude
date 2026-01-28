@@ -1,0 +1,13 @@
+{
+  "name": "laravel-claude",
+  "version": "0.1.0",
+  "description": "Modern Laravel/PHP development toolkit with Vue and Inertia support. Provides agents for architecture, frontend development, documentation, testing, and code review.",
+  "keywords": [
+    "php",
+    "laravel",
+    "vue",
+    "inertia",
+    "eloquent",
+    "artisan"
+  ]
+}
